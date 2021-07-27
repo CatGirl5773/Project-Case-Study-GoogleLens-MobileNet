@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: papayawhip;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.btn-primary {
+    margin-left: 5%;
+    font-size: 18px;
+    width: 150px;
+    font-family: 'Courier New', Courier, monospace !important;
+}
+
+li {
+    background-color: sandybrown;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li img {
+    width: 50%;
+}
+
+.copyright_footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: salmon;
+    font-size: 18px;
+    height: 50px;
+    line-height: 3;
+}
